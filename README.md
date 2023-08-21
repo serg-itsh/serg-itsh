@@ -1,4 +1,12 @@
-### Hi there 👋
+Hi 👋 My name is SERHII SHEVCHENKO
+==================================
+
+I am a Front-End developer looking for a full-time position in a company that's aimed at making both everyday life and business easier, more productive and user-friendly. I have sound knowledge of HTML5, CSS3, Tailwind CSS, JavaScript, React.js and Qwik. I am a fast learner, responsible, and ready for challenging tasks.
+
+* 🌍  I'm based in Ukraine
+* 🖥️  See my portfolio at [My PORTFOLIO](http://serhii-shevchenko-resume.netlify.app)
+* ✉️  You can contact me at [sergeishevchenko111@gmail.com](mailto:sergeishevchenko111@gmail.com)
+* 🚀  I'm currently working on [Art BENCH](http://the-art-banch.netlify.app/)
 
 <!--
 **serg-itsh/serg-itsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
